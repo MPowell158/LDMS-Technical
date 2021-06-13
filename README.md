@@ -20,4 +20,4 @@ To return data for Points 7 and 8 run the select queries within the following SQ
 - Employees For a Department
 - Salary for a Department
 
-These SQL's could be used to run within Oracle Reports (Never used, Just know of) or via command line with SQL*Plus.
+These SQL's could be used to run within Oracle Reports or via command line with SQL*Plus.
